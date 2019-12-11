@@ -1,0 +1,7 @@
+checkpoints/
+datasets/
+results/
+*.tar.gz
+*.zip
+*.pkl
+*.pyc
