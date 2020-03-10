@@ -41,7 +41,7 @@ New models can be trained with train.sh. This is an example of training the mode
 ### Citation
 If you use this code for your research, please cite our papers.
 ```
-@inproceedings{park2019SPADE,
+@inproceedings{liu2019learning,
   title={Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis},
   author={Liu, Xihui and Yin, Guojun and Shao, Jing and Wang, Xiaogang and Li, Hongsheng},
   booktitle={Advances in Neural Information Processing Systems},
